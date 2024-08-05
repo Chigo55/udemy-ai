@@ -1,4 +1,4 @@
-# Python Computer Vision Study
+# Python Deep Learning A-Z Study
 - python = 3.10.14
 - content:
     1. Artificial Neural Network
